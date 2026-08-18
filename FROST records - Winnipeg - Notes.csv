@@ -1,0 +1,3 @@
+First Fall Frost,Numeric is days after July 15,,1839 - Sept 12 (-0.6c at 7am obs from Red River Post Journal)
+Last Spring Frost,Numeric is days above March 31,,
+Growing Season 0,Formula is (first fost julian - last frost julian - 1),,
